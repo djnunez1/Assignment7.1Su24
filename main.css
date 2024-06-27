@@ -1,0 +1,41 @@
+body{
+	background-color:rgb(139, 94, 43);
+	color:white;
+}
+
+nav{
+	height:200px;
+	width:200px;
+	float:left;
+	padding:5px;
+	line-height:30px;
+}
+
+footer{
+	text-align:center;
+
+}
+
+#memeImage{
+	margin-right:200px;
+}
+
+header{
+	text-align:center;
+}
+
+.ButtonStrt{
+	background-color: white;
+	width: 100px;
+	height: 25px;
+	border-radius: 15px;
+	border-color: rgb(255, 231, 206);
+}
+
+.ButtonStp{
+	background-color: white;
+	width: 100px;
+	height: 25px;
+	border-radius: 15px;
+	border-color: rgb(169, 98, 18);
+}
